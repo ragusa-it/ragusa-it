@@ -19,7 +19,7 @@ I'm a passionate Web Developer from Germany, specializing in creating modern, re
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="45" height="45"/>
   </a>
   <a href="https://www.shopify.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shopify/shopify-original-wordmark.svg" alt="Shopify" width="45" height="45"/>
+    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/shopify/shopify-original-wordmark.svg](https://cdn.worldvectorlogo.com/logos/shopify.svg)" alt="Shopify" width="45" height="45"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
