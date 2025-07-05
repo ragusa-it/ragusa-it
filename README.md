@@ -9,7 +9,7 @@ Hi Melvin! This is your rewritten README.
 <!-- 1. Banner Image -->
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://placehold.co/1200x300/2d3748/ffffff%3Ftext%3DMelvin%2BRagusa%2B%257C%2BWeb%2BDeveloper" alt="Melvin Ragusa - Web Developer Banner"/>
+<img src="/github-header-image.png" alt="Melvin Ragusa - Web Developer Banner"/>
 </p>
 
 <!-- 2. Enhanced Introduction -->
