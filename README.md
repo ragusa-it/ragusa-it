@@ -14,8 +14,6 @@ Hi Melvin! This is your rewritten README.
 
 <!-- 2. Enhanced Introduction -->
 
-<h1 align="center">Hi there, I'm Melvin Ragusa 👋</h1>
-
 <p align="center">
 I'm a passionate Web Developer from Germany with a love for turning creative ideas into modern, responsive, and intuitive web applications. My journey into development started with a fascination for design and interactivity, and now I specialize in building seamless user experiences, particularly within the e-commerce space. I thrive on clean code, elegant animations, and solving complex problems to bring digital visions to life.
 </p>
