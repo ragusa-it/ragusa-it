@@ -25,7 +25,7 @@ Here are a few projects I'm proud of. You can find more on my portfolio!
 <h3 align="center">Studio 31 Website</h3>
 <p align="center">
 <a href="https://studio31.xyz" target="_blank">
-<img src="http://api.page2images.com/directlink?p2i_url=http://studio31.xyz&p2i_key=8975b0fbe36b05dd&p2i_device=6&p2i_size=200x200 alt="Studio 31 Website GIF"/>
+<img src="http://api.page2images.com/directlink?p2i_url=http://studio31.xyz&p2i_key=8975b0fbe36b05dd&p2i_device=6&p2i_size=200x200" alt="Studio 31 Website GIF"/>
 </a>
 </p>
 <p><strong>Description:</strong> A visually stunning website for a creative studio, built to showcase their portfolio and services.</p>
@@ -35,7 +35,7 @@ Here are a few projects I'm proud of. You can find more on my portfolio!
 <h3 align="center">Kistenblende Shopify Store</h3>
 <p align="center">
 <a href="https://kistenblende.de" target="_blank">
-<img src="https://placehold.co/400x250/333/fff?text=Project+GIF" alt="Kistenblende Shopify Store GIF"/>
+<img src="http://api.page2images.com/directlink?p2i_url=http://kistenblende.de&p2i_key=8975b0fbe36b05dd&p2i_device=6&p2i_size=200x200" alt="Kistenblende Shopify Store GIF"/>
 </a>
 </p>
 <p><strong>Description:</strong> A complete Shopify store setup for a friend, including theme customization and app integration for a seamless e-commerce experience. (No custom Liquid development).</p>
@@ -47,7 +47,7 @@ Here are a few projects I'm proud of. You can find more on my portfolio!
 <h3 align="center">Personal Portfolio</h3>
 <p align="center">
 <a href="https://ragusa-it.dev" target="_blank">
-<img src="https://placehold.co/400x250/333/fff?text=Project+GIF" alt="Personal Portfolio GIF"/>
+<img src="http://api.page2images.com/directlink?p2i_url=http://ragusa-it.dev&p2i_key=8975b0fbe36b05dd&p2i_device=6&p2i_size=200x200" alt="Personal Portfolio GIF"/>
 </a>
 </p>
 <p><strong>Description:</strong> My personal portfolio website, designed to be interactive and engaging with smooth animations and transitions.</p>
