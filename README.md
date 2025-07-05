@@ -29,7 +29,7 @@ Here are a few projects I'm proud of. You can find more on my portfolio!
 </a>
 </p>
 <p><strong>Description:</strong> A visually stunning website for a creative studio, built to showcase their portfolio and services.</p>
-<p><strong>Tech Stack:</strong> Cargo, Custom CSS.</p>
+<p><strong>Tech Stack:</strong> Cargo, Custom CSS, React.</p>
 </td>
 <td width="50%">
 <h3 align="center">Kistenblende Shopify Store</h3>
@@ -51,24 +51,50 @@ Here are a few projects I'm proud of. You can find more on my portfolio!
 </a>
 </p>
 <p><strong>Description:</strong> My personal portfolio website, designed to be interactive and engaging with smooth animations and transitions.</p>
-<p><strong>Tech Stack:</strong> Next.js, React, Framer Motion, TypeScript.</p>
+<p><strong>Tech Stack:</strong> Next.js, React, Framer Motion, JavaScript.</p>
 </td>
 </tr>
 </table>
 
 💻 My Tech Stack
 
-I'm always learning and experimenting with new technologies. Here's a list of tools and technologies I work with regularly.
+I'm proficient in a variety of modern web development technologies, with a focus on creating beautiful and performant user experiences. I'm always eager to learn and adapt to new tools and frameworks.
 
-Frontend | Backend & Database | Tools & Platforms
---- | --- | ---
-React | Node.js | Git & GitHub
-Next.js | Express | Vercel
-TypeScript | MongoDB | Shopify
-JavaScript (ES6+) | Firebase | Figma
-HTML5 & CSS3 | | Netlify
-TailwindCSS | |
-Framer Motion | |
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <strong>Frontend</strong>
+      <ul>
+        <li>React</li>
+        <li>Next.js</li>
+        <li>TypeScript</li>
+        <li>JavaScript (ES6+)</li>
+        <li>HTML5 & CSS3</li>
+        <li>Framer Motion</li>
+        <li>TailwindCSS</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <strong>Backend & Database</strong>
+      <ul>
+        <li>Node.js</li>
+        <li>Express</li>
+        <li>MongoDB</li>
+        <li>Firebase</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <strong>Tools & Platforms</strong>
+      <ul>
+        <li>Git & GitHub</li>
+        <li>Vercel</li>
+        <li>Shopify</li>
+        <li>Figma</li>
+        <li>Cargo</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 📊 My GitHub Stats
 
