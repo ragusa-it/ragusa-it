@@ -37,5 +37,5 @@ I'm a passionate Web Developer from Germany, specializing in creating modern, re
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ragusa-it&show_icons=true&theme=shadow_green&hide_border=true&include_all_commits=true" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ragusa-it&show_icons=true&theme=shadow_red&hide_border=true&include_all_commits=true" alt="Your GitHub Stats" />
 </p>
