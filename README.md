@@ -25,7 +25,7 @@ Here are a few projects I'm proud of. You can find more on my portfolio!
 <h3 align="center">Studio 31 Website</h3>
 <p align="center">
 <a href="https://studio31.xyz" target="_blank">
-<img src="https://placehold.co/400x250/333/fff?text=Project+GIF" alt="Studio 31 Website GIF"/>
+<img src="http://api.page2images.com/directlink?p2i_url=https://studio31.xyz&p2i_key=8975b0fbe36b05dd&p2i_device=6&p2i_size=200x200 alt="Studio 31 Website GIF"/>
 </a>
 </p>
 <p><strong>Description:</strong> A visually stunning website for a creative studio, built to showcase their portfolio and services.</p>
