@@ -13,9 +13,6 @@ I'm a passionate Web Developer from Germany with a love for turning creative ide
 <a href="mailto:kontakt@ragusa-it.dev">
 <img src="https://img.shields.io/badge/Email-kontakt%40ragusa--it.dev-red?style=for-the-badge&logo=gmail" alt="Email"/>
 </a>
-<a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
 </p>
 
 🚀 Featured Projects
@@ -69,7 +66,7 @@ React | Node.js | Git & GitHub
 Next.js | Express | Vercel
 TypeScript | MongoDB | Shopify
 JavaScript (ES6+) | Firebase | Figma
-HTML5 & CSS3 | |
+HTML5 & CSS3 | | Netlify
 TailwindCSS | |
 Framer Motion | |
 
