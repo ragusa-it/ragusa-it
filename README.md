@@ -100,7 +100,7 @@ I'm proficient in a variety of modern web development technologies, with a focus
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ragusa-it&show_icons=true&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=true" alt="Melvin's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragusa-it&layout=compact&theme=shadow_red&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragusa-it&layout=donut&theme=shadow_red&hide_border=true" alt="Top Languages" />
 </p>
 
 📫 Let's Connect!
