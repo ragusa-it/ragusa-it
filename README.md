@@ -1,18 +1,6 @@
-<!--
-Hi Melvin! This is your rewritten README.
-
-    I've added placeholders like [Link to Project] or for the project GIFs. You'll just need to replace these with your actual URLs.
-
-    Feel free to customize the text further to perfectly match your voice and projects!
-    -->
-
-<!-- 1. Banner Image -->
-
 <p align="center">
 <img src="/github-header-image.png" alt="Melvin Ragusa - Web Developer Banner"/>
 </p>
-
-<!-- 2. Enhanced Introduction -->
 
 <p align="center">
 I'm a passionate Web Developer from Germany with a love for turning creative ideas into modern, responsive, and intuitive web applications. My journey into development started with a fascination for design and interactivity, and now I specialize in building seamless user experiences, particularly within the e-commerce space. I thrive on clean code, elegant animations, and solving complex problems to bring digital visions to life.
@@ -20,17 +8,16 @@ I'm a passionate Web Developer from Germany with a love for turning creative ide
 
 <p align="center">
 <a href="https://ragusa-it.dev" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-ragusa--it.dev-blue%3Fstyle%3Dfor-the-badge%26logo%3Dicloud" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-ragusa--it.dev-blue?style=for-the-badge&logo=icloud" alt="Portfolio"/>
 </a>
 <a href="mailto:kontakt@ragusa-it.dev">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-kontakt%40ragusa--it.dev-red%3Fstyle%3Dfor-the-badge%26logo%3Dgmail" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-kontakt%40ragusa--it.dev-red?style=for-the-badge&logo=gmail" alt="Email"/>
 </a>
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-blue%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 </p>
 
-<!-- 3. Featured Projects -->
 🚀 Featured Projects
 
 Here are a few projects I'm proud of. You can find more on my portfolio!
@@ -38,92 +25,61 @@ Here are a few projects I'm proud of. You can find more on my portfolio!
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Project One: E-commerce Platform</h3>
+<h3 align="center">Studio 31 Website</h3>
 <p align="center">
-<a href="[Link to Project 1]" target="_blank">
-<img src="https://www.google.com/search?q=https://placehold.co/400x250/333/fff%3Ftext%3DProject%2B1%2BGIF" alt="Project 1 GIF"/>
+<a href="https://studio31.xyz" target="_blank">
+<img src="https://placehold.co/400x250/333/fff?text=Project+GIF" alt="Studio 31 Website GIF"/>
 </a>
 </p>
-<p><strong>Description:</strong> A fully responsive e-commerce site built with Shopify, featuring custom theme development and integrations for a seamless shopping experience.</p>
-<p><strong>Tech Stack:</strong> Shopify Liquid, JavaScript, TailwindCSS, Firebase.</p>
+<p><strong>Description:</strong> A visually stunning website for a creative studio, built to showcase their portfolio and services.</p>
+<p><strong>Tech Stack:</strong> Cargo, Custom CSS.</p>
 </td>
 <td width="50%">
-<h3 align="center">Project Two: Interactive Portfolio</h3>
+<h3 align="center">Kistenblende Shopify Store</h3>
 <p align="center">
-<a href="[Link to Project 2]" target="_blank">
-<img src="https://www.google.com/search?q=https://placehold.co/400x250/333/fff%3Ftext%3DProject%2B2%2BGIF" alt="Project 2 GIF"/>
+<a href="https://kistenblende.de" target="_blank">
+<img src="https://placehold.co/400x250/333/fff?text=Project+GIF" alt="Kistenblende Shopify Store GIF"/>
 </a>
 </p>
-<p><strong>Description:</strong> A personal portfolio website featuring advanced animations and transitions using Framer Motion to create an engaging user journey.</p>
-<p><strong>Tech Stack:</strong> React, Next.js, Framer Motion, TypeScript.</p>
+<p><strong>Description:</strong> A complete Shopify store setup for a friend, including theme customization and app integration for a seamless e-commerce experience. (No custom Liquid development).</p>
+<p><strong>Tech Stack:</strong> Shopify, App Integration.</p>
+</td>
+</tr>
+<tr>
+<td width="100%" colspan="2">
+<h3 align="center">Personal Portfolio</h3>
+<p align="center">
+<a href="https://ragusa-it.dev" target="_blank">
+<img src="https://placehold.co/400x250/333/fff?text=Project+GIF" alt="Personal Portfolio GIF"/>
+</a>
+</p>
+<p><strong>Description:</strong> My personal portfolio website, designed to be interactive and engaging with smooth animations and transitions.</p>
+<p><strong>Tech Stack:</strong> Next.js, React, Framer Motion, TypeScript.</p>
 </td>
 </tr>
 </table>
 
-<!-- 4. Detailed Tech Stack -->
 💻 My Tech Stack
 
 I'm always learning and experimenting with new technologies. Here's a list of tools and technologies I work with regularly.
 
-Frontend
-	
+Frontend | Backend & Database | Tools & Platforms
+--- | --- | ---
+React | Node.js | Git & GitHub
+Next.js | Express | Vercel
+TypeScript | MongoDB | Shopify
+JavaScript (ES6+) | Firebase | Figma
+HTML5 & CSS3 | |
+TailwindCSS | |
+Framer Motion | |
 
-Backend & Database
-	
-
-Tools & Platforms
-
-
-	
-
-
-	
-
-
-
-	
-
-
-	
-
-
-
-	
-
-
-	
-
-
-
-	
-
-
-	
-
-
-
-	
-
-
-	
-
-
-
-	
-
-
-	
-
-
-<!-- 5. GitHub Stats -->
 📊 My GitHub Stats
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dragusa-it%26show_icons%3Dtrue%26theme%3Dshadow_red%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Melvin's GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dragusa-it%26layout%3Dcompact%26theme%3Dshadow_red%26hide_border%3Dtrue" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=ragusa-it&show_icons=true&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=true" alt="Melvin's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragusa-it&layout=compact&theme=shadow_red&hide_border=true" alt="Top Languages" />
 </p>
 
-<!-- 6. Connect with Me -->
 📫 Let's Connect!
 
 I'm currently open to freelance projects and always excited to collaborate on interesting ideas. Whether you have a question, a proposal, or just want to say hi, my inbox is always open!
