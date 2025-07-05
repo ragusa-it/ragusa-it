@@ -29,7 +29,7 @@ Here are a few projects I'm proud of. You can find more on my portfolio!
 </a>
 </p>
 <p><strong>Description:</strong> A visually stunning website for a creative studio, built to showcase their portfolio and services.</p>
-<p><strong>Tech Stack:</strong> Cargo, Custom CSS, React.</p>
+<p><strong>Tech Stack:</strong> Next.js, React, Framer Motion, Cargo, JavaScript.</p>
 </td>
 <td width="50%">
 <h3 align="center">Kistenblende Shopify Store</h3>
@@ -39,7 +39,7 @@ Here are a few projects I'm proud of. You can find more on my portfolio!
 </a>
 </p>
 <p><strong>Description:</strong> A complete Shopify store setup for a friend, including theme customization and app integration for a seamless e-commerce experience. (No custom Liquid development).</p>
-<p><strong>Tech Stack:</strong> Shopify, App Integration.</p>
+<p><strong>Tech Stack:</strong> Shopify, App Integration, Custom CSS.</p>
 </td>
 </tr>
 <tr>
