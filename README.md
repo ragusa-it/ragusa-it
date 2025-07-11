@@ -43,7 +43,7 @@ Here are a few projects I'm proud of. You can find more on my portfolio!
 </td>
 </tr>
 <tr>
-<td width="100%" colspan="2">
+<td width="50%">
 <h3 align="center">Personal Portfolio</h3>
 <p align="center">
 <a href="https://ragusa-it.dev" target="_blank">
@@ -53,7 +53,7 @@ Here are a few projects I'm proud of. You can find more on my portfolio!
 <p><strong>Description:</strong> My personal portfolio website, designed to be interactive and engaging with smooth animations and transitions.</p>
 <p><strong>Tech Stack:</strong> Next.js, React, Framer Motion, JavaScript.</p>
 </td>
-<td colspan="2" valign="top">
+<td width="50%">
 <h3 align="center">Fire Safety Management System</h3>
 <p align="center">
 <a href="https://www.google.com/search?q=https://github.com/ragusa-it/brandschutz-system" target="_blank">
