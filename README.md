@@ -53,6 +53,13 @@ Here are a few projects I'm proud of. You can find more on my portfolio!
 <p><strong>Description:</strong> My personal portfolio website, designed to be interactive and engaging with smooth animations and transitions.</p>
 <p><strong>Tech Stack:</strong> Next.js, React, Framer Motion, JavaScript.</p>
 </td>
+<td colspan="2" valign="top">
+<h3 align="center">Fire Safety Management System</h3>
+<p align="center">
+<a href="https://www.google.com/search?q=https://github.com/ragusa-it/brandschutz-system" target="_blank">
+<img src="https://www.google.com/search?q=https://placehold.co/800x400/1a1b27/FFFFFF%3Ftext%3DFire%2BSafety%2BSystem" alt="Fire Safety Management System"/>
+</a>
+</td>
 </tr>
 </table>
 
