@@ -54,7 +54,7 @@ Here are a few projects I'm proud of. You can find more on my portfolio!
       <p><strong>Tech Stack:</strong> Next.js, React, Framer Motion, JavaScript.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Anwesenheits- Und Rettungs- Assistent. - AURA.</h3>
+      <h3 align="center">Anwesenheits- Und Rettungs- Assistent. AURA.</h3>
       <p align="center">
         <a href="https://github.com/ragusa-it/brandschutz-system" target="_blank">
           <img src="/images/AURA.webp" alt="Anwesenheits- Und Rettungs- Assistent - AURA" width="200" height="200" style="object-fit: cover;"/>
