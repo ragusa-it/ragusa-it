@@ -25,7 +25,7 @@ Here are a few projects I'm proud of. You can find more on my portfolio!
       <h3 align="center">Studio 31 Website</h3>
       <p align="center">
         <a href="https://studio31.xyz" target="_blank">
-          <img src="/images/Studio31.webp" alt="Studio 31 Website"/>
+          <img src="/images/Studio31.webp" alt="Studio 31 Website" width="200" height="200" style="object-fit: cover;"/>
         </a>
       </p>
       <p><strong>Description:</strong> A visually stunning website for a creative studio, built to showcase their portfolio and services.</p>
@@ -35,7 +35,7 @@ Here are a few projects I'm proud of. You can find more on my portfolio!
       <h3 align="center">Kistenblende Shopify Store</h3>
       <p align="center">
         <a href="https://kistenblende.de" target="_blank">
-          <img src="/images/Kistenblende.webp" alt="Kistenblende Shopify Store"/>
+          <img src="/images/Kistenblende.webp" alt="Kistenblende Shopify Store" width="200" height="200" style="object-fit: cover;"/>
         </a>
       </p>
       <p><strong>Description:</strong> A complete Shopify store setup for a friend, including theme customization and app integration for a seamless e-commerce experience. (No custom Liquid development).</p>
@@ -47,7 +47,7 @@ Here are a few projects I'm proud of. You can find more on my portfolio!
       <h3 align="center">Personal Portfolio</h3>
       <p align="center">
         <a href="https://ragusa-it.dev" target="_blank">
-          <img src="/images/Portfolio.webp" alt="Personal Portfolio"/>
+          <img src="/images/Portfolio.webp" alt="Personal Portfolio" width="200" height="200" style="object-fit: cover;"/>
         </a>
       </p>
       <p><strong>Description:</strong> My personal portfolio website, designed to be interactive and engaging with smooth animations and transitions.</p>
@@ -57,7 +57,7 @@ Here are a few projects I'm proud of. You can find more on my portfolio!
       <h3 align="center">Fire Safety Management System</h3>
       <p align="center">
         <a href="https://github.com/ragusa-it/brandschutz-system" target="_blank">
-          <img src="/images/AURA.webp" alt="Anwesenheits- Und Rettungs- Assistent - AURA"/>
+          <img src="/images/AURA.webp" alt="Anwesenheits- Und Rettungs- Assistent - AURA" width="200" height="200" style="object-fit: cover;"/>
         </a>
       </p>
       <p><strong>Description:</strong> A modern, high-performance web application designed for fire safety management. This system provides real-time tracking of personnel and assists in coordinating rescue operations during emergencies. Built with a modern tech stack including React, TypeScript, and Node.js for a reliable and scalable solution.</p>
