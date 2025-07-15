@@ -20,47 +20,50 @@ I'm a passionate Web Developer from Germany with a love for turning creative ide
 Here are a few projects I'm proud of. You can find more on my portfolio!
 
 <table>
-<tr>
-<td width="50%">
-<h3 align="center">Studio 31 Website</h3>
-<p align="center">
-<a href="https://studio31.xyz" target="_blank">
-<img src="/images/Studio31.webp" alt="Studio 31 Website"/>
-</a>
-</p>
-<p><strong>Description:</strong> A visually stunning website for a creative studio, built to showcase their portfolio and services.</p>
-<p><strong>Tech Stack:</strong> Next.js, React, Framer Motion, Cargo, JavaScript.</p>
-</td>
-<td width="50%">
-<h3 align="center">Kistenblende Shopify Store</h3>
-<p align="center">
-<a href="https://kistenblende.de" target="_blank">
-<img src="/images/Kistenblende.webp" alt="Kistenblende Shopify Store"/>
-</a>
-</p>
-<p><strong>Description:</strong> A complete Shopify store setup for a friend, including theme customization and app integration for a seamless e-commerce experience. (No custom Liquid development).</p>
-<p><strong>Tech Stack:</strong> Shopify, App Integration, Custom CSS.</p>
-</td>
-</tr>
-<tr>
-<td width="50%" colspan="2">
-<h3 align="center">Personal Portfolio</h3>
-<p align="center">
-<a href="https://ragusa-it.dev" target="_blank">
-<img src="/images/Portfolio.webp" alt="Personal Portfolio"/>
-</a>
-</p>
-<p><strong>Description:</strong> My personal portfolio website, designed to be interactive and engaging with smooth animations and transitions.</p>
-<p><strong>Tech Stack:</strong> Next.js, React, Framer Motion, JavaScript.</p>
-</td>
-<td width="50%" colspan="2">
-<h3 align="center">Fire Safety Management System</h3>
-<p align="center">
-<a href="https://github.com/ragusa-it/brandschutz-system" target="_blank">
-<img src="/images/AURA.webp" alt="Anwesenheits- Und Rettungs- Assistent - AURA"/>
-</a>
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Studio 31 Website</h3>
+      <p align="center">
+        <a href="https://studio31.xyz" target="_blank">
+          <img src="/images/Studio31.webp" alt="Studio 31 Website"/>
+        </a>
+      </p>
+      <p><strong>Description:</strong> A visually stunning website for a creative studio, built to showcase their portfolio and services.</p>
+      <p><strong>Tech Stack:</strong> Next.js, React, Framer Motion, Cargo, JavaScript.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Kistenblende Shopify Store</h3>
+      <p align="center">
+        <a href="https://kistenblende.de" target="_blank">
+          <img src="/images/Kistenblende.webp" alt="Kistenblende Shopify Store"/>
+        </a>
+      </p>
+      <p><strong>Description:</strong> A complete Shopify store setup for a friend, including theme customization and app integration for a seamless e-commerce experience. (No custom Liquid development).</p>
+      <p><strong>Tech Stack:</strong> Shopify, App Integration, Custom CSS.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Personal Portfolio</h3>
+      <p align="center">
+        <a href="https://ragusa-it.dev" target="_blank">
+          <img src="/images/Portfolio.webp" alt="Personal Portfolio"/>
+        </a>
+      </p>
+      <p><strong>Description:</strong> My personal portfolio website, designed to be interactive and engaging with smooth animations and transitions.</p>
+      <p><strong>Tech Stack:</strong> Next.js, React, Framer Motion, JavaScript.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Fire Safety Management System</h3>
+      <p align="center">
+        <a href="https://github.com/ragusa-it/brandschutz-system" target="_blank">
+          <img src="/images/AURA.webp" alt="Anwesenheits- Und Rettungs- Assistent - AURA"/>
+        </a>
+      </p>
+      <p><strong>Description:</strong> A fire safety management system for tracking presence and rescue operations in emergencies.</p>
+      <p><strong>Tech Stack:</strong> Node.js, React, MongoDB, JavaScript.</p>
+    </td>
+  </tr>
 </table>
 
 💻 My Tech Stack
