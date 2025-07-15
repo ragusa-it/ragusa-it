@@ -60,7 +60,7 @@ Here are a few projects I'm proud of. You can find more on my portfolio!
           <img src="/images/AURA.webp" alt="Anwesenheits- Und Rettungs- Assistent - AURA" width="200" height="200" style="object-fit: cover;"/>
         </a>
       </p>
-      <p><strong>Description:</strong> A modern, high-performance web application designed for fire safety management. This system provides real-time tracking of personnel and assists in coordinating rescue operations during emergencies. Built with a modern tech stack including React, TypeScript, and Node.js for a reliable and scalable solution.</p>
+      <p><strong>Description:</strong> A modern, high-performance web application designed for fire safety management. This system provides real-time tracking of personnel and assists in coordinating rescue operations during emergencies. Built with a modern tech stack for a reliable and scalable solution.</p>
       <p><strong>Tech Stack:</strong> Node.js, React, TypeScript, Vite, Zustand, Axios, Turbo, pnpm.</p>
     </td>
   </tr>
