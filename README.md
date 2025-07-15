@@ -108,7 +108,7 @@ I'm proficient in a variety of modern web development technologies, with a focus
 
 📊 My GitHub Stats
 
-<p align="center">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=ragusa-it&show_icons=true&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=true" alt="Melvin's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragusa-it&layout=donut&theme=shadow_red&hide_border=true" alt="Top Languages" />
 </p>
@@ -117,6 +117,6 @@ I'm proficient in a variety of modern web development technologies, with a focus
 
 I'm currently open to freelance projects and always excited to collaborate on interesting ideas. Whether you have a question, a proposal, or just want to say hi, my inbox is always open!
 
-<p align="center">
+<p align="left">
 <a href="mailto:kontakt@ragusa-it.dev"><strong>kontakt@ragusa-it.dev</strong></a>
 </p>
