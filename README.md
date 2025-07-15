@@ -56,8 +56,8 @@ Here are a few projects I'm proud of. You can find more on my portfolio!
 <td width="50%">
 <h3 align="center">Fire Safety Management System</h3>
 <p align="center">
-<a href="https://www.google.com/search?q=https://github.com/ragusa-it/brandschutz-system" target="_blank">
-<img src="https://www.google.com/search?q=https://placehold.co/800x400/1a1b27/FFFFFF%3Ftext%3DFire%2BSafety%2BSystem" alt="Fire Safety Management System"/>
+<a href="https://github.com/ragusa-it/brandschutz-system" target="_blank">
+<img src="/images/AURA.webp" alt="Anwesenheits- Und Rettungs- Assistent - AURA"/>
 </a>
 </td>
 </tr>
