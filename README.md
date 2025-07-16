@@ -12,8 +12,8 @@
 <a href="https://ragusa-it.dev" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-ragusa--it.dev-blue?style=for-the-badge&logo=icloud" alt="Portfolio"/>
 </a>
-<a href="mailto:info@ragusa-it.de">
-<img src="https://img.shields.io/badge/Email-info%40ragusa--it.de-red?style=for-the-badge&logo=gmail" alt="Email"/>
+<a href="mailto:kontakt@ragusa-it.de">
+<img src="https://img.shields.io/badge/Email-kontakt%40ragusa--it.de-red?style=for-the-badge&logo=gmail" alt="Email"/>
 </a>
 </p>
 
@@ -139,5 +139,5 @@ Meine unkonventionelle Reise hat meine Fähigkeiten entscheidend geprägt:
 Ich bin offen für neue berufliche Herausforderungen als Junior-Entwickler und freue mich darauf, an spannenden Projekten mitzuarbeiten. Ob Sie eine Frage, ein Angebot oder einfach nur "Hallo" sagen möchten – mein Posteingang ist immer offen!
 
 <p align="left">
-<a href="mailto:info@ragusa-it.de"><strong>info@ragusa-it.de</strong></a>
+<a href="mailto:kontakt@ragusa-it.de"><strong>kontakt@ragusa-it.de</strong></a>
 </p>
