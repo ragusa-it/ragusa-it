@@ -28,7 +28,7 @@ Hier sind einige Projekte, die meine Fähigkeiten demonstrieren.
     <td width="50%" valign="top">
       <h3 align="center">AURA Brandschutz-System</h3>
       <p align="center">
-        <a href="https://github.com/ragusa-it/brandschutz-system" target="_blank">
+        <a href="https://aurabrandschutz.app" target="_blank">
           <img src="/images/AURA.webp" alt="Anwesenheits- Und Rettungs- Assistent - AURA" width="200" height="200" style="object-fit: cover;"/>
         </a>
       </p>
