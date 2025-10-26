@@ -5,7 +5,7 @@
 <h1 align="center">Melvin Ragusa | Junior Full-Stack Entwickler</h1>
 
 <p align="center">
-<b>Lösungsorientierter Full-Stack-Entwickler mit einer 15-jährigen, praxisgetriebenen Leidenschaft für Technologie. Meine frühe Erfahrung in der Systemanalyse und im Reverse Engineering mündete in der Konzeption und Umsetzung komplexer, moderner Webanwendungen wie der Enterprise-Sicherheitsplattform AURA.</b>
+<b>Lösungsorientierter Full-Stack-Entwickler mit einer 15-jährigen, praxisgetriebenen Leidenschaft für Technologie. Meine frühe Erfahrung in der Systemanalyse und im Reverse Engineering mündete in der Konzeption und Umsetzung komplexer, moderner Webanwendungen.</b>
 </p>
 
 <p align="center">
