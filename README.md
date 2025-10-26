@@ -28,31 +28,36 @@ Ich beherrsche eine Vielzahl moderner Web-Technologien und bin stets bestrebt, n
     <td valign="top" width="33%">
       <strong>Frontend</strong>
       <ul>
-        <li>React & Next.js</li>
+        <li>React & Next.js 15</li>
         <li>TypeScript & JavaScript (ES6+)</li>
         <li>HTML5 & CSS3</li>
         <li>Framer Motion</li>
-        <li>TailwindCSS</li>
-        <li>React Native</li>
+        <li>TailwindCSS 4</li>
+        <li>Vite</li>
+        <li>Radix UI</li>
+        <li>Zod</li>
       </ul>
     </td>
     <td valign="top" width="33%">
       <strong>Backend & Database</strong>
       <ul>
         <li>Node.js & Express</li>
+        <li>Python</li>
         <li>PostgreSQL</li>
         <li>MongoDB</li>
         <li>Redis</li>
         <li>Firebase</li>
+        <li>Ghost CMS API</li>
       </ul>
     </td>
     <td valign="top" width="33%">
       <strong>Tools, DevOps & Platforms</strong>
       <ul>
         <li>Git & GitHub</li>
-        <li>Docker & Kubernetes</li>
+        <li>Docker & Docker Compose</li>
         <li>CI/CD (GitHub Actions)</li>
-        <li>Prisma</li>
+        <li>Playwright (E2E Testing)</li>
+        <li>ESLint</li>
         <li>Vercel & Shopify</li>
       </ul>
     </td>
