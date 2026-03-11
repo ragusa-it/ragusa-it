@@ -5,3 +5,8 @@
 > 👉 **Find my projects at: [git.ragusa-it.dev](https://git.ragusa-it.dev)**
 
 GitHub is no longer actively maintained. Please visit the link above to find the latest versions of all my projects.
+
+## Links
+
+- [ragusa-it.dev](https://ragusa-it.dev)
+- [git.ragusa-it.dev](https://git.ragusa-it.dev)
